@@ -5,7 +5,7 @@
  * using an enhanced switch expression.
  */
 
-public class SwitchExpressionReturn {
+public class EnhancedSwitchWithReturn {
 
     public static void main(String[] args) {
 
