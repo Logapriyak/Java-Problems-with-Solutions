@@ -5,7 +5,7 @@
  * expression inside a void method.
  */
 
-public class SwitchExpressionMethod {
+public class EnhancedSwitchMethod {
 
     public static void main(String[] args) {
 
