@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Color: "+car.getColor());
         System.out.println("Doors: "+car.getDoors());
         System.out.println("Model: "+ car.getModel());
-        System.out.println("Is convertible: "+ car.isConvertible());
+        System.out.println("Is convertible: "+ car.getConvertible());
     }
 }
