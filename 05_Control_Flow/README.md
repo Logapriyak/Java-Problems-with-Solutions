@@ -8,7 +8,7 @@ This folder contains Java programs and challenge solutions completed while learn
 - switch Statements
 - Enhanced switch
 - Loops 
-- `break` and `continue`
+- break and continue
 - Conditional Logic
 - Branching
 
