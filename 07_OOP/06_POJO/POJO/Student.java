@@ -1,4 +1,6 @@
 /*
+ * Plain Old Java Object(POJO)
+ *
  * Student POJO
  *
  * A simple POJO class used to store student information.
